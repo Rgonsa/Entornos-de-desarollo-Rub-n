@@ -4,3 +4,10 @@ h1{
     text-decoration: dotted;
 
 }
+h2{
+    background-color: cadetblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    text-decoration: dashed;
+
+}
